@@ -1,0 +1,36 @@
+[kafka] docker: Error response from daemon: Conflict. The container name "/kafka" is already in use by container "dc908d448b2d4c12bb196f75528a0dc915b564cbdd5e9f863ce26a098e2d0bb5". You have to remove (or rename) that container to be able to reuse that name.
+[kafka] 
+[kafka] Run 'docker run --help' for more information
+[zookeeper] docker: Error response from daemon: Conflict. The container name "/zookeeper" is already in use by container "b9947a7bae322c964e43db17062c7faa53226334de5df4f27d644f73ab9d5a91". You have to remove (or rename) that container to be able to reuse that name.
+[zookeeper] 
+[zookeeper] Run 'docker run --help' for more information
+[schema-registry] docker: Error response from daemon: Conflict. The container name "/schema-registry" is already in use by container "15ac3b1c539ab46995cebda6fe56aa1df18311e5c8a976ba92cb86b50347216f". You have to remove (or rename) that container to be able to reuse that name.
+[schema-registry] 
+[schema-registry] Run 'docker run --help' for more information
+[kafka] 59563689b1365dd4bf9209cc10ec3a98e92e8b519ea205c479bba2c813bec03f
+[schema-registry] f849883a3130655babcf2dfc57e31a86e6057ad88ed4222c90f67352822cf246
+[zookeeper] c600ca2f197a779aafefb400f1701bcf1035f0bbf6bfc88e5b7f0d276774e76f
+[kafka] nohup: ignoring input
+[kafka] 94c57996353fcfbc0b41876a28e7883ae59b35cb07e4c4b98dfb41589dd53508
+[zookeeper] nohup: ignoring input
+[zookeeper] 2a488bcf193e0dd9d086b5f28f86a31b059bd36d5dbb1358c59395c6ec64f328
+[schema-registry] nohup: ignoring input
+[schema-registry] deebd5def53f20107b6142c7d6d54e660b6ac76d132a39807728b635cad6bfe7
+[schema-registry] nohup: ignoring input
+[schema-registry] d85532e68c700df285ba35c8620ce471acfa12acbcb1ae07046ce082b48a482a
+[kafka] nohup: ignoring input
+[kafka] 0f973c4d70fe913901d7ea0ba07dcb8cbf8c162ef869f3038794296415cacffe
+[zookeeper] nohup: ignoring input
+[zookeeper] 3e64dca1e07ae547a3f8ca2cf2f5a5356614db3b2111cc1f2d3376946ca042a1
+[zookeeper] nohup: ignoring input
+[zookeeper] a6f5cae11d8c1b9a02785ec281493ed3867eb4b7ded3439c9d530c2ca5f0a48d
+[schema-registry] nohup: ignoring input
+[schema-registry] 359896e362055a743efca3de3beed79d2ef759c57e35b591b487eb4d0624a8db
+[kafka] nohup: ignoring input
+[kafka] e1c70622c79792bc40070b762d5f6cf1acd415ea19c3ce41a2b7241725d81670
+[zookeeper] nohup: ignoring input
+[zookeeper] d1fd5c3febd3075d5adb5dfd85c7c00db130cf08a3cf2d7cefcc1187514b8bba
+[kafka] nohup: ignoring input
+[kafka] de7ff72620725f945534d949aef034cbc7964d9823a0a95e7fad200c43dcf959
+[schema-registry] nohup: ignoring input
+[schema-registry] 688ebdb69879c1e9fe042ac8500665bace3fccc327a7328ad1833efdf77760a6

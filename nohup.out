@@ -1,0 +1,27 @@
+docker: Error response from daemon: Conflict. The container name "/zookeeper" is already in use by container "b9947a7bae322c964e43db17062c7faa53226334de5df4f27d644f73ab9d5a91". You have to remove (or rename) that container to be able to reuse that name.
+
+Run 'docker run --help' for more information
+docker: Error response from daemon: Conflict. The container name "/kafka" is already in use by container "dc908d448b2d4c12bb196f75528a0dc915b564cbdd5e9f863ce26a098e2d0bb5". You have to remove (or rename) that container to be able to reuse that name.
+
+Run 'docker run --help' for more information
+docker: Error response from daemon: Conflict. The container name "/schema-registry" is already in use by container "15ac3b1c539ab46995cebda6fe56aa1df18311e5c8a976ba92cb86b50347216f". You have to remove (or rename) that container to be able to reuse that name.
+
+Run 'docker run --help' for more information
+docker: Error response from daemon: Conflict. The container name "/zookeeper" is already in use by container "b9947a7bae322c964e43db17062c7faa53226334de5df4f27d644f73ab9d5a91". You have to remove (or rename) that container to be able to reuse that name.
+
+Run 'docker run --help' for more information
+docker: Error response from daemon: Conflict. The container name "/kafka" is already in use by container "dc908d448b2d4c12bb196f75528a0dc915b564cbdd5e9f863ce26a098e2d0bb5". You have to remove (or rename) that container to be able to reuse that name.
+
+Run 'docker run --help' for more information
+docker: Error response from daemon: Conflict. The container name "/schema-registry" is already in use by container "15ac3b1c539ab46995cebda6fe56aa1df18311e5c8a976ba92cb86b50347216f". You have to remove (or rename) that container to be able to reuse that name.
+
+Run 'docker run --help' for more information
+docker: Error response from daemon: Conflict. The container name "/zookeeper" is already in use by container "b9947a7bae322c964e43db17062c7faa53226334de5df4f27d644f73ab9d5a91". You have to remove (or rename) that container to be able to reuse that name.
+
+Run 'docker run --help' for more information
+docker: Error response from daemon: Conflict. The container name "/kafka" is already in use by container "dc908d448b2d4c12bb196f75528a0dc915b564cbdd5e9f863ce26a098e2d0bb5". You have to remove (or rename) that container to be able to reuse that name.
+
+Run 'docker run --help' for more information
+docker: Error response from daemon: Conflict. The container name "/schema-registry" is already in use by container "15ac3b1c539ab46995cebda6fe56aa1df18311e5c8a976ba92cb86b50347216f". You have to remove (or rename) that container to be able to reuse that name.
+
+Run 'docker run --help' for more information
